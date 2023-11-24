@@ -50,7 +50,7 @@ export const ContactForm = () => {
       <label>
         <p className={css.label}>Number</p>
         <input
-          placeholder="+459-12-56"
+          placeholder="360-370-7954"
           type="tel"
           name="number"
           id={nanoid()}
